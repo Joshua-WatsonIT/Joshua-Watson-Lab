@@ -28,6 +28,11 @@ This repository documents the memory expansion of my HP Pavilion. The goal was t
 
 
 ## 📂 Repository Contents
-* `benchmarks/`: Before and after logs (e.g., Chrome tab stress tests).
-* `specs/`: Screenshots of CPU-Z 'Memory' and 'SPD' tabs to verify dual-channel mode.
+![IMG_1577](https://github.com/user-attachments/assets/a00b83f6-deb5-41e4-bac3-1a0f84d2e1cd)
+![IMG_1578](https://github.com/user-attachments/assets/8ba021da-e77b-4f54-8930-48d57cf54a56)
+![IMG_1579](https://github.com/user-attachments/assets/37b47903-1b3c-4b23-b87e-d247d22cb22a)
+![IMG_1580](https://github.com/user-attachments/assets/3a7a4170-6689-489f-b163-2ac09ce1ca1e)
+![IMG_1581](https://github.com/user-attachments/assets/a8c6004a-9a4d-4a52-9ec4-b5b4b48f1173)
+![IMG_1583](https://github.com/user-attachments/assets/140c9a38-a7da-49e7-ad60-c1129c736947)
+
 
