@@ -23,7 +23,7 @@ This repository documents the memory expansion of my HP Pavilion. The goal was t
     * *Note: Ensure the notch aligns with the key in the slot.*
 3.  **Verification:** Boot into Windows and check **Task Manager > Performance > Memory**.
     * Verify "Slots used: 2 of 2".
-    * Verify "Speed: [Your Frequency] MHz".
+    * Verify "Speed: 2400 MT/s".
 
 
 
