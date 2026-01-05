@@ -1,4 +1,21 @@
-# Joshua-Watson-Lab
+# Joshua Watson - IT Lab
+
+## Project Overview
+This repository serves as a documentation hub for my technical laboratory exercises. It includes system configurations, troubleshooting logs, and visual documentation of the lab environment.
+
+## Lab Components
+* **System Snapshots:** Visual confirmation of configurations and successful implementations.
+* **Technical Documentation:** Detailed walkthroughs and supporting files located in the attachments.
+
+## Goals
+1. Demonstrate proficiency in system setup and administration.
+2. Maintain clear, organized technical documentation.
+3. Track progress through various IT laboratory modules.
+
+---
+*Last updated: January 2026*
+
+
 # 🚀 HP Pavilion RAM Upgrade: 8GB to 16GB
 
 This repository documents the memory expansion of my HP Pavilion. The goal was to double the capacity while maintaining the original system frequency to ensure 100% stability and compatibility with the HP BIOS.
