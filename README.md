@@ -59,8 +59,4 @@ I use a bare-metal Kali Linux machine to practice network mapping and vulnerabil
 * **Tools:** Nmap, Bash Scripting.
 * **Skills:** Scanning local networks to identify active hosts, open ports, and service versions.
 
-## 💻 Hardware Project: HP Pavilion Laptop Upgrade
-* **The Task:** Upgraded an HP Pavilion laptop from **8GB to 16GB of RAM**.
-* **The Process:** 1. Identified the correct DDR4 speed and voltage for the motherboard.
-    2. Performed a full teardown, ensuring proper ESD (Electrostatic Discharge) safety.
-    3. Verified the upgrade in the BIOS and Windows Task Manager to ensure dual-channel stability.
+
