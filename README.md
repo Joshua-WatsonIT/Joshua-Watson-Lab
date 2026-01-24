@@ -52,4 +52,15 @@ This repository documents the memory expansion of my HP Pavilion. The goal was t
 ![IMG_1581](https://github.com/user-attachments/assets/a8c6004a-9a4d-4a52-9ec4-b5b4b48f1173)
 ![IMG_1583](https://github.com/user-attachments/assets/140c9a38-a7da-49e7-ad60-c1129c736947)
 
+# Hands-On Hardware & Security Lab
 
+## 🛡️ Network Security & Discovery (Kali Linux)
+I use a bare-metal Kali Linux machine to practice network mapping and vulnerability discovery.
+* **Tools:** Nmap, Bash Scripting.
+* **Skills:** Scanning local networks to identify active hosts, open ports, and service versions.
+
+## 💻 Hardware Project: HP Pavilion Laptop Upgrade
+* **The Task:** Upgraded an HP Pavilion laptop from **8GB to 16GB of RAM**.
+* **The Process:** 1. Identified the correct DDR4 speed and voltage for the motherboard.
+    2. Performed a full teardown, ensuring proper ESD (Electrostatic Discharge) safety.
+    3. Verified the upgrade in the BIOS and Windows Task Manager to ensure dual-channel stability.
